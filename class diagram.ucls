@@ -1,0 +1,611 @@
+<class-diagram version="1.0.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.Response" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/Response.java" binary="false">    
+    <position height="212" width="213" x="1939" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.mutex.FIFOSemaphore.FIFOWaitQueue" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/mutex/FIFOSemaphore.java" 
+    binary="false">    
+    <position height="110" width="127" x="4304" y="1552"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.ClientRegistrationRequest" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/ClientRegistrationRequest.java" binary="false">    
+    <position height="144" width="250" x="4728" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.socketserver.CrawlerSharedData" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/socketserver/CrawlerSharedData.java" binary="false">    
+    <position height="178" width="190" x="4264" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.client.BluetoothClient" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/client/BluetoothClient.java" binary="false">    
+    <position height="93" width="192" x="612" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.zeroconf.ZeroconfListener" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/zeroconf/ZeroconfListener.java" binary="false">    
+    <position height="127" width="195" x="1038" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.crypto.Codec" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/crypto/Codec.java" 
+    binary="false">    
+    <position height="161" width="232" x="1273" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.socketserver.ServerWorker" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/socketserver/ServerWorker.java" binary="false">    
+    <position height="314" width="407" x="3256" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.QueryResponse" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/QueryResponse.java" binary="false">    
+    <position height="144" width="144" x="3102" y="847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.NotificationStatement" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/NotificationStatement.java" binary="false">    
+    <position height="127" width="161" x="5217" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.client.Client" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/client/Client.java" binary="false">    
+    <position height="127" width="253" x="1924" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.mutex.FIFOSemaphore" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/mutex/FIFOSemaphore.java" 
+    binary="false">    
+    <position height="76" width="133" x="4431" y="1402"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.ClientRegistrationResponse" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/ClientRegistrationResponse.java" binary="false">    
+    <position height="144" width="185" x="1939" y="847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.mutex.QueuedSemaphore.WaitQueue.WaitNode" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/mutex/QueuedSemaphore.java" 
+    binary="false">    
+    <position height="144" width="253" x="4284" y="1702"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.bluetoothserver.BluetoothServer" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/bluetoothserver/BluetoothServer.java" binary="false">    
+    <position height="110" width="224" x="3703" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.xquery.QueryException" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/xquery/QueryException.java" binary="false">    
+    <position height="144" width="135" x="1545" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="17" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.LetterOfMark" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/LetterOfMark.java" binary="false">    
+    <position height="280" width="177" x="4728" y="847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.notification.NotificationWorker" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/notification/NotificationWorker.java" binary="false">    
+    <position height="127" width="357" x="3967" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="19" corner="BOTTOM_RIGHT" language="java" 
+    name="ca.queensu.pervasive.repository.NotificationSubscriptionData" project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/repository/NotificationSubscriptionData.java" 
+    binary="false">    
+    <position height="144" width="316" x="3864" y="847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.NotificationResponse" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/NotificationResponse.java" binary="false">    
+    <position height="144" width="241" x="2164" y="847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.mutex.QueuedSemaphore" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/mutex/QueuedSemaphore.java" 
+    binary="false">    
+    <position height="195" width="202" x="4264" y="1167"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="22" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.xquery.XQuery" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/xquery/XQuery.java" binary="false">    
+    <position height="212" width="164" x="1720" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="23" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.NotificationRequest" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/NotificationRequest.java" binary="false">    
+    <position height="161" width="244" x="5418" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="24" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.crypto.CodecException" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/crypto/CodecException.java" 
+    binary="false">    
+    <position height="144" width="137" x="42" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="25" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.crypto.Key" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/crypto/Key.java" 
+    binary="false">    
+    <position height="195" width="129" x="219" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="26" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.xml.XMLHandler" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/xml/XMLHandler.java" 
+    binary="false">    
+    <position height="110" width="184" x="388" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="27" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.mutex.Semaphore" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/mutex/Semaphore.java" 
+    binary="false">    
+    <position height="178" width="129" x="4264" y="847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="28" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.HostKeyResponse" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/HostKeyResponse.java" binary="false">    
+    <position height="161" width="148" x="1751" y="847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="29" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.crypto.Base64" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/crypto/Base64.java" 
+    binary="false">    
+    <position height="144" width="154" x="844" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="30" corner="BOTTOM_RIGHT" language="java" 
+    name="ca.queensu.pervasive.notification.NotificationSubscriberWorker" project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/notification/NotificationSubscriberWorker.java" 
+    binary="false">    
+    <position height="110" width="297" x="2217" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="31" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.HostKeyRequest" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/HostKeyRequest.java" binary="false">    
+    <position height="93" width="138" x="5039" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="32" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.client.AwesomeClient" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/client/AwesomeClient.java" binary="false">    
+    <position height="195" width="322" x="2192" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="33" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.mutex.QueuedSemaphore.WaitQueue" 
+    project="PervasiveContextSharingHost" file="/PervasiveContextSharingHost/src/ca/queensu/mutex/QueuedSemaphore.java" 
+    binary="false">    
+    <position height="110" width="127" x="4264" y="1402"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="34" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.notification.NotificationCallback" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/notification/NotificationCallback.java" binary="false">    
+    <position height="76" width="147" x="2554" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="35" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.repository.SynchronizedRepository" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/repository/SynchronizedRepository.java" binary="false">    
+    <position height="416" width="360" x="3864" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="36" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.zeroconf.ListPervasiveHostsTest" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/zeroconf/ListPervasiveHostsTest.java" binary="false">    
+    <position height="93" width="161" x="3055" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="37" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.socketserver.Crawler" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/socketserver/Crawler.java" binary="false">    
+    <position height="110" width="330" x="4629" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="38" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.zeroconf.ListPervasiveHostsTest.SampleListener" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/zeroconf/ListPervasiveHostsTest.java" binary="false">    
+    <position height="127" width="195" x="3055" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="39" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.socketserver.SocketServer" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/socketserver/SocketServer.java" binary="false">    
+    <position height="178" width="225" x="4364" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="40" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.notification.NotificationSubscriber" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/notification/NotificationSubscriber.java" binary="false">    
+    <position height="144" width="461" x="2554" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="41" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.QueryRequest" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/QueryRequest.java" binary="false">    
+    <position height="314" width="194" x="4494" y="391"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="42" corner="BOTTOM_RIGHT" language="java" name="ca.queensu.pervasive.common.Request" 
+    project="PervasiveContextSharingHost" 
+    file="/PervasiveContextSharingHost/src/ca/queensu/pervasive/common/Request.java" binary="false">    
+    <position height="161" width="194" x="4999" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="43">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="44" name="dataObject"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <association id="47">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="48" name="results"/>      
+      <multiplicity id="49" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <association id="51">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="52" name="callback"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="55" name="next"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="58" name="notifications"/>      
+      <multiplicity id="59" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="61" name="tail_"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="63">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <association id="64">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="65" name="request"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="68" name="letterOfMark"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="71">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="72" name="wq_"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="74">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="75">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="76" name="repository"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="79" name="semaphore"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <bendpoint x="5008" y="391"/>    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="82" name="letterOfMark"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <nesting id="85">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <generalization id="86">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="88">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="89" name="repository"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="91">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <generalization id="92">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <association id="93">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="94" name="repository"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="97" name="repository"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="99">    
+    <bendpoint x="4273" y="1552"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <association id="100">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="101" name="lettersOfMark"/>      
+      <multiplicity id="102" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="104" name="head_"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="106">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="42"/>  
+  </generalization>  
+  <association id="107">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="108" name="callback"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="110">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <association id="111">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="112" name="letterOfMark"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="114">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="115">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="116">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="33"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
