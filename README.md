@@ -50,8 +50,8 @@ conform with the schema outlined in the thesis accompanying this source.
 ### Dependencies
 
 - _Bluetooth_: [Bluecove](http://bluecove.org)
-- IP network decentralized service discover: [jmDNS](http://jmdns.sourceforge.net/) v3.4 
-- For XML:
+- _IP network decentralized service discover_: [jmDNS](http://jmdns.sourceforge.net/) v3.4 
+- _For XML_:
     - [BaseX](basex.org) v6.1
     - [Apache Saxon HE](http://saxon.sourceforge.net/)
 
