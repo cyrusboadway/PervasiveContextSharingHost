@@ -1,0 +1,20 @@
+<host:Host id="83d584e8-cbac-4eb5-8db2-3f09d41e0df6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:host="http://cs.queensu.ca/Host" schemaLocation="http://cs.queensu.ca/Host Host.xsd" ><base:Entity xmlns:person="http://cs.queensu.ca/PersonBase" xmlns:base="http://cs.queensu.ca/ContextBase" id="FqwgRU3ZoZHSQbEKAmpcLUTB63F" xsi:type="person:PersonType" xsi:schemaLocation="http://cs.queensu.ca/PersonBase PersonBase.xsd">
+	<base:PermissionGroups xmlns:person="http://cs.queensu.ca/PersonBase">
+		<base:PermissionGroup xmlns:person="http://cs.queensu.ca/PersonBase">
+			<base:ContextID xmlns:person="http://cs.queensu.ca/PersonBase">myName</base:ContextID>
+			<base:EntityID xmlns:person="http://cs.queensu.ca/PersonBase">AxngzBaGgL9kDSnruEjpTxfMbN2</base:EntityID>
+		</base:PermissionGroup>
+	</base:PermissionGroups>
+	<person:Name xmlns:base="http://cs.queensu.ca/ContextBase">
+		<person:First xmlns:base="http://cs.queensu.ca/ContextBase">Alice</person:First>
+		<person:Last xmlns:base="http://cs.queensu.ca/ContextBase" private="true" contextID="myName">Anderson</person:Last>
+	</person:Name>
+</base:Entity><base:Entity xmlns:device="http://cs.queensu.ca/DeviceBase" xmlns:base="http://cs.queensu.ca/ContextBase" id="AxngzBaGgL9kDSnruEjpTxfMbN2" xsi:type="device:DeviceType" xsi:schemaLocation="http://cs.queensu.ca/DeviceBase DeviceBase.xsd">
+	<base:Relationship xmlns:device="http://cs.queensu.ca/DeviceBase" verb="ownership">
+		<base:ObjectElement xmlns:device="http://cs.queensu.ca/DeviceBase">FqwgRU3ZoZHSQbEKAmpcLUTB63F</base:ObjectElement>
+	</base:Relationship>
+	<device:FeatureSet xmlns:base="http://cs.queensu.ca/ContextBase" xsi:type="device:EmailDeviceType">
+		<device:EmailAddress xmlns:base="http://cs.queensu.ca/ContextBase">cyrus@boadway.ca</device:EmailAddress>
+	</device:FeatureSet>
+
+</base:Entity></host:Host>

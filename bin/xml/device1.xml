@@ -1,0 +1,9 @@
+<base:Entity id="unIuoaPoGwAOwKaZZYHiWL.tXo" xsi:type="device:DeviceType" xmlns:device="http://cs.queensu.ca/DeviceBase" xmlns:base="http://cs.queensu.ca/ContextBase" xmlns:person="http://cs.queensu.ca/DeviceBase" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cs.queensu.ca/DeviceBase DeviceBase.xsd">
+	<base:Relationship verb="ownership">
+		<base:ObjectElement>6UzjX4rQdnY2FzCAM2a4Estp52c</base:ObjectElement>
+	</base:Relationship>
+	<device:FeatureSet xsi:type="device:EmailDeviceFeatureSet">
+		<device:EmailAddress>cyrus@boadway.ca</device:EmailAddress>
+	</device:FeatureSet>
+
+</base:Entity>

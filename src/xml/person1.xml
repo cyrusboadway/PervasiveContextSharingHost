@@ -1,0 +1,12 @@
+<base:Entity id="6UzjX4rQdnY2FzCAM2a4Estp52c" xsi:type="person:PersonType" xmlns:base="http://cs.queensu.ca/ContextBase" xmlns:person="http://cs.queensu.ca/PersonBase" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cs.queensu.ca/PersonBase PersonBase.xsd">
+	<base:PermissionGroups>
+		<base:PermissionGroup>
+			<base:ContextID>myName</base:ContextID>
+			<base:EntityID>unIuoaPoGwAOwKaZZYHiWL.tXo</base:EntityID>
+		</base:PermissionGroup>
+	</base:PermissionGroups>
+	<person:Name>
+		<person:First>Alice</person:First>
+		<person:Last private="true" contextID="myName">Anderson</person:Last>
+	</person:Name>
+</base:Entity>
